@@ -1,5 +1,16 @@
 # Octofile For Android Release Note
 
+### v2.1.0
+
+- Brand new design
+- Added common equipment
+- Added support for sending files to common platforms with browsers (such as tablet, mobile phone, computer, Kindle, etc.)
+- Added support for receiving files without a client
+- Added Download Task Management
+- Added support for automatically storing downloaded images and videos to albums
+- Added support for breakpoint resume
+- Support more types of file sending and receiving
+
 ### v1.0.3
 
 - Fix the problem of the repeated download of existing files
