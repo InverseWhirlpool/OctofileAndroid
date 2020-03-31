@@ -11,6 +11,11 @@
 - Added support for breakpoint resume
 - Support more types of file sending and receiving
 
+### v1.0.4
+
+- Fix the problem that the file cannot be sent due to read and write permissions on Android Q (10)
+- Fix issues caused by blank clipboard
+
 ### v1.0.3
 
 - Fix the problem of the repeated download of existing files
