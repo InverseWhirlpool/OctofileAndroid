@@ -1,4 +1,10 @@
 # Octofile For Android Release Note
+### v2.1.1
+
+- Perfect Receive task creation tips
+- Improve the effectiveness of the push message service
+- Fixed the issue of repeated clicks in multi-select mode
+- Fixed an issue where rotating the screen caused the transmission to pause
 
 ### v2.1.0
 
