@@ -1,4 +1,17 @@
 # Octofile For Android Release Note
+
+### v2.1.2
+
+- Fix the problem that file previews cannot be shared
+- Fixes Application exporting problems that can cause crashes
+- Improvements to file receiving services
+- Refinement Transmitting a preview of completed tasks
+- Refine the sequencing of the transmission of completed tasks
+- Add Share menu add 'View in Google Play'
+- New Application List System Application Categories
+- New application categories support long-press multi-select export
+- Updated Help site and content, new support for English
+
 ### v2.1.1
 
 - Perfect Receive task creation tips
