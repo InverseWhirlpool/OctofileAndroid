@@ -1,5 +1,11 @@
 # Octofile For Android Release Note
 
+### v2.2.0
+
+- New Quickly copy clipboard text to other nearby devices.
+- New Dark Mode Adaptations
+- Perfect QR code scanning, support click to enlarge QR code
+
 ### v2.1.2
 
 - Fix the problem that file previews cannot be shared
