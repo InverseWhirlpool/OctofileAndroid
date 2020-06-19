@@ -1,5 +1,9 @@
 # Octofile For Android Release Note
 
+### v2.2.1
+
+- Fix the crash caused by the failure of adding devices
+
 ### v2.2.0
 
 - New Quickly copy clipboard text to other nearby devices.
