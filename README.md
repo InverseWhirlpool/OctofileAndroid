@@ -1,5 +1,9 @@
 # Octofile For Android Release Note
 
+### 2.3.0
+
+- Improve the stability of sending from designated devices
+
 ### v2.2.1
 
 - Fix the crash caused by the failure of adding devices
