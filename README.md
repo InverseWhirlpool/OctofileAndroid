@@ -1,6 +1,16 @@
 # Octofile For Android Release Note
 
-### 2.3.0
+### v2.3.2
+
+- Fix Crash when receiving files
+- Fix Crash caused by storing pictures
+- Fix Crash caused by failure to open file selector
+- Fix Crash caused by failure to fetch download list
+- Fix for "View in Google Play" option not working
+- Fix Problems with view presentation
+- Fix Crash caused by empty data
+
+### v2.3.0
 
 - Improve the stability of sending from designated devices
 
