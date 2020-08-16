@@ -1,5 +1,12 @@
 # Octofile For Android Release Note
 
+### v2.3.3
+
+In this version we have fixed some issues regarding in-app purchases
+- Fixed the issue of Pro arrival delay after successful purchase
+- Fix the issue of Pro invalidation caused by automatic refund
+- Fix the problem of failure to restore purchase
+
 ### v2.3.2
 
 - Fix Crash when receiving files
